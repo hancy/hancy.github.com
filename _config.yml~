@@ -10,13 +10,11 @@ markdown: rdiscount
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : hussion's blog
+title : Hussion's Blog
 tagline: no pains, no gains
 author :
   name : hussion
   email : service@hussion.me
-  github : hancy
-  twitter : hussions
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
