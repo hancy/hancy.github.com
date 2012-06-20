@@ -80,8 +80,8 @@ JB :
   #
   comments :
     provider : disqus
-    disqus :
-      short_name : huangxuan
+    disqus : huangxuan
+      short_name : jekyllbootstrap
     livefyre :
       site_id : 123
     intensedebate :
